@@ -1,0 +1,9 @@
+ foreach (Control item in this.Controls)
+                {
+                    if (item is TextBox)
+
+                    {
+                        TextBox tbox = (TextBox)item;
+                        tbox.Clear();
+                    }
+                }

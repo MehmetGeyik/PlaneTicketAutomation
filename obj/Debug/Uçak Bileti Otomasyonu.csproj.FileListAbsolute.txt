@@ -1,0 +1,84 @@
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.Cache
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+c:\users\whisper\documents\visual studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojResolveAssemblyReference.cache
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.Cache
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+F:\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Whisper\Documents\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Ucak.resources
+C:\Users\Whisper\Documents\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Form1.resources
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Mehmet GEYİK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.KullaniciGiris.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Yolcubiletal.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.config
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.BiletAl.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.KullaniciGiris.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Otomasyon.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak_Bileti_Otomasyonu.Yolcubiletal.resources
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.pdb
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.exe.manifest
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\bin\Debug\Uçak Bileti Otomasyonu.application
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.TrustInfo.xml
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.exe.manifest
+C:\Users\Mehmet GEYIK\Desktop\1 Nisan 2019\Nesne yönelimli yazılım mühendisliği\Uçak Bileti Otomasyonu\Uçak Bileti Otomasyonu\obj\Debug\Uçak Bileti Otomasyonu.application

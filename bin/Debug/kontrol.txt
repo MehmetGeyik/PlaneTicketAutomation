@@ -1,0 +1,29 @@
+if (comboBox1.Text == "")
+            {
+                MessageBox.Show("Öncelikle Kategori Seçin!", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+             else if (textBox1.Text == "" )
+            {
+                MessageBox.Show("Boþ alanlarý doldurun", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                return;
+            }else if (textBox2.Text == "")
+            {
+                MessageBox.Show("Boþ alanlarý doldurun", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                return;
+            }
+            else if (textBox3.Text == "")
+            {
+                MessageBox.Show("Boþ alanlarý doldurun", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                return;
+            }
+            else if (textBox4.Text == "")
+            {
+                MessageBox.Show("Boþ alanlarý doldurun", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                return;
+            }
+            else if (comboBox2.Text == "")
+            {
+                MessageBox.Show("Boþ alanlarý doldurun", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                return;
+            }
